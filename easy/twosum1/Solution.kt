@@ -19,24 +19,15 @@ class Solution {
 
     fun twoSum(nums: IntArray, target: Int): IntArray {
 
-        var firstIndex = 0
-        var secondIndex = 0
-        var firstNumber = 0
-        var secondNumber = 0
-
+        val result = IntArray(2)
+        val map = HashMap<Int, Int>()
         for (i in 0 until nums.size) {
-            firstIndex = i
-            firstNumber = nums[firstIndex]
-            for (j in i+1 until nums.size) {
-                secondIndex = j
-                secondNumber = nums[secondIndex]
-                if (target - firstNumber == secondNumber)
-                    break
+            if (map.containsKey(target - nums[i])) {
+                result[1] = i
+                result[0] = map[target - nums[i]]!!
             }
-
-            if (target - firstNumber == secondNumber)
-                break
+            map[nums[i]] = i
         }
-        return intArrayOf(firstIndex, secondIndex)
+        return result
     }
 }
