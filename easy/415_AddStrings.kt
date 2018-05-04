@@ -1,4 +1,4 @@
-package cherart.easy
+package easy
 
 /*
 415. Add Strings

@@ -1,4 +1,4 @@
-package cherart.easy
+package easy
 
 /*
 766. Toeplitz Matrix

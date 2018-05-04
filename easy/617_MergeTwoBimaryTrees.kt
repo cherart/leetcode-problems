@@ -1,4 +1,6 @@
-package cherart.easy
+package easy
+
+import helpers.TreeNode
 
 /*
 617. Merge Two Binary Trees

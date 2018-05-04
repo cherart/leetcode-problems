@@ -1,4 +1,4 @@
-package cherart.easy
+package easy
 
 /*
 448. Find All Numbers Disappeared in an Array

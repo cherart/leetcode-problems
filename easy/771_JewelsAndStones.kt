@@ -1,4 +1,4 @@
-package cherart.easy
+package easy
 
 /*
 771. Jewels and Stones

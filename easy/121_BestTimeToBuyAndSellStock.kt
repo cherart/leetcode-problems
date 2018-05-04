@@ -1,4 +1,4 @@
-package cherart.easy
+package easy
 
 /*
 121. Best Time to Buy and Sell Stock

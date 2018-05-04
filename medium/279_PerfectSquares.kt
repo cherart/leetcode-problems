@@ -1,4 +1,4 @@
-package cherart.medium
+package medium
 
 var min = Int.MAX_VALUE
 var counter = 0

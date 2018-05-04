@@ -1,4 +1,4 @@
-package cherart.easy
+package easy
 
 /*
 136. Single Number

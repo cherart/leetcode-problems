@@ -1,4 +1,4 @@
-package cherart.medium
+package medium
 
 import java.util.*
 

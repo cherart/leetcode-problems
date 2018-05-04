@@ -1,4 +1,4 @@
-package cherart.easy
+package easy
 
 /*
 70. Climbing Stairs

@@ -1,4 +1,4 @@
-package cherart.medium
+package medium
 
 /*
 807. Max Increase to Keep City Skyline

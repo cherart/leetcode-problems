@@ -1,6 +1,4 @@
-package cherart.easy
-
-import kotlin.math.absoluteValue
+package easy
 
 /*
 504. Base 7
