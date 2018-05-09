@@ -1,5 +1,7 @@
 package easy
 
+import helpers.TreeNode
+
 /*
 226. Invert Binary Tree
 
