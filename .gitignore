@@ -4,3 +4,5 @@
 *.iws
 helpers/
 contest/
+output/
+venv/
